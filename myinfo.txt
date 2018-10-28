@@ -3,6 +3,10 @@
 Email: laibatahir367@gmail.com
 Faculty of Information Technology
 
+<<<<<<< HEAD
 ADDING DATA FOR CONFLICT CHECKING OFFLINE !!!
 
 __________________________________
+=======
+ADDING DATA FOR CONFLICT CHECKING ONLINE
+>>>>>>> 279d88efcda116db62bb2015e7b93e5dca168934
